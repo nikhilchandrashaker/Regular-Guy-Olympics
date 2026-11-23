@@ -1,0 +1,12 @@
+discipline,event,direction,unit,gold_benchmark,regular_baseline,distance_m,noise_sd
+Track and field,100 m,lower_is_better,s,9.8,15,100,0.04
+Track and field,400 m,lower_is_better,s,43.5,70,400,0.05
+Track and field,1500 m,lower_is_better,s,210,420,1500,0.06
+Track and field,Marathon,lower_is_better,s,7560,19800,42195,0.1
+Track and field,Long jump,higher_is_better,m,8.5,4.5,,0.07
+Track and field,High jump,higher_is_better,m,2.37,1.25,,0.07
+Track and field,Shot put,higher_is_better,m,22,8.5,,0.08
+Swimming,100 m freestyle,lower_is_better,s,47.5,95,100,0.06
+Swimming,400 m freestyle,lower_is_better,s,220,480,400,0.07
+Cycling,40 km time trial,lower_is_better,s,2880,5760,40000,0.06
+Diving,10 m platform,higher_is_better,pts,550,60,,0.2
